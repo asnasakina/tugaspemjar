@@ -1,0 +1,7 @@
+pada program ini menggunakan perulangan for, for yang pertama adalah jika kita menginputkan i nya 1, lalu dia masuk ke yan baris kedua
+jika i tersebut kurang atau sama dengan 3 maka program akan mengoutputkan i = i+1 begitu seterusnya sampai i tidak sama dengan 3
+for yang kedua jika kita meninputkan angka j = 7 dan j tersebut kuran atau sama denagn 9 maka langsung dioutputkan angkanuya saja
+begitu seterusnya sampai j = 9
+lalu program menoutputkan loop 
+for yangg ketiga jika kita menginputkan anka n = 0 dan n tersebut kurag dari sama denan 5 maka n+1 lalu masuk ke i
+jika n mod 2 = 0 maka dilanjutkan jika tidak program selesai
